@@ -15,16 +15,16 @@ window.streams = {
     //   "aurora"  -> index-alt.html      (Aurora Deck — alternative UI)
     // You can also open any of those files directly.
     // ----------------------------------------------------------------
-    layout: "retro",
+    layout: "classic",
 
     // Metadata refresh interval (ms) when the API does not push updates
     timeRefresh: 10000,
 
     stations: [
         {
-            name: "Jailson Webradio",
+            name: "RAC+1",
             hash: "jailson",
-            description: "Música sem parar",
+            description: "Tots som 1",
             // Optional: real FM frequency shown on the "retro" layout dial
             // (e.g. "87.9"). Leave it out to auto-assign one across the band.
             frequency: "",
