@@ -32,7 +32,7 @@ window.streams = {
             album: "assets/jailson_cover.png",
             cover: "assets/jailson_cover.png",
             api: "", // leave empty to use the free api.twj.es metadata API
-            stream_url: "https://stream.zeno.fm/yn65fsaurfhvv",
+            stream_url: "https://28563.live.streamtheworld.com/RAC_MES_1.mp3",
             tv_url: "https://eu1.servers10.com:2020/VideoPlayer/8106?autoplay=1",
             server: "", // "spotify" or "itunes" for extra cover-art lookup
             program: {
