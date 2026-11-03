@@ -67,7 +67,7 @@ window.streams = {
             album: "assets/cover.png",
             cover: "assets/cover.png",
             api: "",
-            stream_url: "https://sv2.globalhostlive.com/proxy/bendistereo/stream2",
+            stream_url: "https://directes-radio-int.3catdirectes.cat/live-content/radio-oca-hls/master.m3u8",
             server: "spotify",
             program: {
                 time: "11:00",
