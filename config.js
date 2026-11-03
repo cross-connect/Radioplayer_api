@@ -23,12 +23,12 @@ window.streams = {
     stations: [
         {
             name: "RAC+1",
-            hash: "jailson",
+            hash: "RAC1",
             description: "Tots som 1",
             // Optional: real FM frequency shown on the "retro" layout dial
             // (e.g. "87.9"). Leave it out to auto-assign one across the band.
             frequency: "",
-            logo: "assets/jailson_logo.png",
+            logo: "racmes1_logo.png",
             album: "assets/jailson_cover.png",
             cover: "assets/jailson_cover.png",
             api: "", // leave empty to use the free api.twj.es metadata API
@@ -60,10 +60,10 @@ window.streams = {
         },
 
         {
-            name: "BENDICIÓN STEREO",
-            hash: "bendicion",
-            description: "Bendecidos para bendecir!",
-            logo: "assets/default_logo.png",
+            name: "Catalunya Radio Exclusiu Digital",
+            hash: "Cat Radio",
+            description: "Escolta't",
+            logo: "assets/catrad_logo.png",
             album: "assets/cover.png",
             cover: "assets/cover.png",
             api: "",
