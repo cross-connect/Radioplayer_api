@@ -29,7 +29,7 @@ window.streams = {
             // (e.g. "87.9"). Leave it out to auto-assign one across the band.
             frequency: "",
             logo: "assets/jailson_cover.png",
-            album: "racmes1_logo.png",
+            album: "assets/myself/racmes1_logo.png",
             cover: "assets/jailson_cover.png",
             api: "", // leave empty to use the free api.twj.es metadata API
             stream_url: "https://28563.live.streamtheworld.com/RAC_MES_1.mp3",
@@ -64,7 +64,7 @@ window.streams = {
             hash: "Cat Radio",
             description: "Escolta't",
             logo: "assets/cover.png",
-            album: "assets/catrad_logo.png",
+            album: "assets/myself/catrad_logo.png",
             cover: "assets/cover.png",
             api: "",
             stream_url: "https://directes-radio-int.3catdirectes.cat/live-content/radio-oca-hls/master.m3u8",
