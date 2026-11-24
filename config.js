@@ -68,11 +68,11 @@ window.streams = {
             cover: "assets/cover.png",
             api: "",
             stream_url: "https://directes-radio-int.3catdirectes.cat/live-content/radio-oca-hls/master.m3u8",
-            server: "spotify",
+            server: "", // "spotify" or "itunes" for extra cover-art lookup
             program: {
-                time: "11:00",
-                name: "Bendición Stereo",
-                description: "EN VIVO // ON AIR",
+                time: "",
+                name: "",
+                description: "",
             },
             social: {
                 facebook: "https://facebook.com/BendicionStereo",
