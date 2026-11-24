@@ -33,7 +33,7 @@ window.streams = {
             cover: "assets/jailson_cover.png",
             api: "", // leave empty to use the free api.twj.es metadata API
             stream_url: "https://28563.live.streamtheworld.com/RAC_MES_1.mp3",
-            tv_url: "https://eu1.servers10.com:2020/VideoPlayer/8106?autoplay=1",
+            tv_url: "",
             server: "", // "spotify" or "itunes" for extra cover-art lookup
             program: {
                 time: "",
@@ -64,7 +64,7 @@ window.streams = {
             hash: "Cat Radio",
             description: "Escolta't",
             logo: "assets/cover.png",
-            album: "assets/myself/catrad_logo.png",
+            album: "assets/myself/catrad_logo.png", 
             cover: "assets/cover.png",
             api: "",
             stream_url: "https://directes-radio-int.3catdirectes.cat/live-content/radio-oca-hls/master.m3u8",
